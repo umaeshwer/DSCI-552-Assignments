@@ -1,0 +1,6 @@
+# files
+*.zip
+*.DS_Store
+
+# folders
+.vscode/
