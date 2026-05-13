@@ -12,6 +12,6 @@ Semester: Spring 2026
 | 4 | [hw4](./HW4/) | [AReM Data](./HW3/data/AReM/) | Time Series Classification (Multi Class, Multi Label) |
 | 5 | [hw5](./HW5/) | [Acute Inflammations](./HW5/data/diagnosis.data), [Communities and Crime](./HW5/data/communities.data) | Decision Trees, Lasso Regression and Boosting |
 | 6 | [hw6](./HW6/) | [APS Failure](./HW6/data) | SMOTE, XGBoost |
-| 7 | [hw7](./HW7/) | [Anuran](./HW7/data/Anuran Calls (MFCCs)/Frogs_MFCCs.csv) | SVM, K-Means Clustering |
+| 7 | [hw7](./HW7/) | [Anuran Cells (MFCCs)](./HW7/data/Anuran%20Calls%20(MFCCs)/Frogs_MFCCs.csv) | SVM, K-Means Clustering |
 | 8 | [hw8](./HW8/) | [WDBC Data](./HW8/data/wdbc.data) | Semi-supervised and Active Learning |
 | 9 | [Project](./Project/) | [defungi](./Project/data/defungi/) | Transfer Learning and Neyral Networks |
